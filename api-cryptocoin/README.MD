@@ -21,4 +21,4 @@
  São utilizados três arquivos para a execução desse projeto:
  - main.py - Contém a execução do programa em si (requisição dos dados da API, validação dos dados, carregamento dos dados no BD).
  - model.py - Conexão com o BD na Amazon RDS e criação da tabela.
- - config.py - Variáveis de configuração para conexão com o BD e parâmetros da API.
+ - config.py - Variáveis de configuração para conexão com o BD e parâmetros da API. 
