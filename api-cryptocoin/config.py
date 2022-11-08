@@ -1,0 +1,8 @@
+db_hostname = '****'
+db_user = '****'
+db_password = '****'
+db_port = '5432'
+db_name = '****'
+api_key = '****'
+api_url = '****'
+api_currency='USD'
